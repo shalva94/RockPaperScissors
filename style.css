@@ -72,6 +72,8 @@ section{
     color: white;
     text-align: center;
     font-size: 50px;
+    position: relative;
+    top:-100px;
 }
 
 .hands,
