@@ -45,7 +45,8 @@ section{
 
 .intro button,
 .match button{
-    margin-left: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
     position: relative;
     top:20px;
     width: 120px;
